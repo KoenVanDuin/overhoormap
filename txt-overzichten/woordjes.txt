@@ -1,0 +1,7 @@
+le chat		die Katze
+le chien	der Hund
+la mer		der See
+le commerce	das Geschäft
+laver		waschen
+le magasin	der Laden
+se battre	kämpfen

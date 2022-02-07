@@ -1,0 +1,670 @@
+sparen			parcere
+hoe			quemadmodum
+waarom			cur
+maken tot		facere + 2acc
+verzinnen		fingere
+tot nu doe		adhuc
+snel (bijw)		cito
+wegens			ob, propter + acc
+of			vel
+oordelen		iudicare
+door, by, par		ab + abl
+blij zijn		gaudeo
+trerugkeren		revertor
+net zo			aequo
+maar			at, sed
+noch			nec
+oever			ripa
+wat, waarom		quid
+toestaan		sinére
+steen			lapis
+geweldig		ingens
+vrezen			metuere
+rij, gelid		ordo
+bedriegen		fallere
+misdaad			sceleris
+kennen			cognoscere, cognovi
+ook, zelfs		etiam
+zodat niet		ne + conj
+erg (bijw)		valde
+omvang			magnitudo
+ver			longe
+ooit, soms		aliquando
+toen			tunc, tum
+koninklijk		regius
+vriendelijk		mitis
+zo			ita
+afzetten		deponere, deposui
+zingen			canere
+list			dolus
+toen			cum + ind
+geschenk, taak		munus, -eris
+de een, ander		alius, alius
+toch			tamen
+altaar			ara
+verblijven		morari
+echtgenote		uxor
+te weten komen		reperire
+kledingstuk		vestis
+rechter			iudex
+op die manier		sic
+tensltotte		denique
+aangezien		quoniam
+vriendschap		amicitia
+klein			parvus
+behalve			preater + acc
+zoals			sicut
+vasthouden		tenére
+opnieuw			iterum
+omdat			quod
+streven naar		petere
+brengen			perducere
+bovendien		praeterea
+begerig naar ..		cupidus + gen
+verschaffen		praebére
+dwaas			stultis
+gaan zitten		considere
+wensen			optare
+metgezel		comes
+opdat			ut + conj
+wonderbaarlijk		mirus
+licht			levis
+riviertje		amnis (m)
+en			atque
+zozeer			tam
+opgewassen tot		par + dat
+nauwelijks		vix
+aan hem			ei
+bekend			notus
+kust			litus
+want, namelijk		nam
+onvrijwillig		invitus
+waarzegger		vates
+lange tijd		diu
+zijn, haar		suus
+daar			ibi
+opvoeden		alere
+immers			enim
+gezicht			vultus
+later			postea
+tenzij			nisi
+dus			igitur
+aarde			tellus, -uris
+bevelen			iubére, iussi
+wegnemen		auferre
+bij			apud + acc
+woest			saevus
+echter			autem
+betrappen		deprehendere
+tegelijk		simul
+nog niet		nondum
+omdat			quia
+onlangs			nuper
+al			iam
+ontstaan		oriri
+baren			gignere
+kleinzoon		nepos
+meteen			statim
+opa			avus
+daarom			ideo
+buigen			flectere
+toevallig		forte
+strijden		certare
+zoals, zodra		ut
+plotseling		repente
+huilen			flere
+sterven			interire
+hij zegt		ait
+plaatsen		statuere
+uitoefenen		exercére
+gehaat bij		invisus + dat
+daar 			ilic
+brucht			arx
+doden			necare, caedere
+redden			servare
+of			aut
+pakken			capere
+van goud		aureus
+gehoorzamen		parére + dat
+vervolgens		deinde
+gewoonlijk doen		solére
+verdrijven van		pellere + abl
+zeg			dic
+wind			aura
+echter, idd		vero
+koninklijk		regius
+gaan zitten		considere
+toen			tunc, tum
+geweldig		ingens
+meteen			statim
+echter, idd		vero
+opa			avus
+plaatsen		statuere
+brengen			perducere
+verdrijven van		pellere + abl
+blij zijn		gaudeo
+echtgenote		uxor
+steen			lapis
+onvrijwillig		invitus
+kledingstuk		vestis
+bij			apud + acc
+toen			cum + ind
+hij zegt		ait
+tenzij			nisi
+brucht			arx
+waarom			cur
+gezicht			vultus
+vervolgens		deinde
+wat, waarom		quid
+wensen			optare
+sterven			interire
+daarom			ideo
+waarzegger		vates
+aan hem			ei
+gehoorzamen		parére + dat
+omdat			quod
+verzinnen		fingere
+daar 			ilic
+want, namelijk		nam
+dwaas			stultis
+baren			gignere
+dus			igitur
+klein			parvus
+al			iam
+afzetten		deponere, deposui
+vriendelijk		mitis
+aarde			tellus, -uris
+oever			ripa
+strijden		certare
+tensltotte		denique
+zodat niet		ne + conj
+vriendschap		amicitia
+net zo			aequo
+noch			nec
+ver			longe
+zeg			dic
+verschaffen		praebére
+erg (bijw)		valde
+streven naar		petere
+metgezel		comes
+rechter			iudex
+rij, gelid		ordo
+wegens			ob, propter + acc
+begerig naar ..		cupidus + gen
+wonderbaarlijk		mirus
+maken tot		facere + 2acc
+maar			at, sed
+hoe			quemadmodum
+zoals, zodra		ut
+opvoeden		alere
+geschenk, taak		munus, -eris
+plotseling		repente
+opnieuw			iterum
+toestaan		sinére
+opdat			ut + conj
+oordelen		iudicare
+buigen			flectere
+en			atque
+van goud		aureus
+ontstaan		oriri
+nog niet		nondum
+trerugkeren		revertor
+kust			litus
+vasthouden		tenére
+bedriegen		fallere
+kleinzoon		nepos
+zozeer			tam
+riviertje		amnis (m)
+toch			tamen
+toevallig		forte
+immers			enim
+huilen			flere
+verblijven		morari
+tot nu doe		adhuc
+echter			autem
+altaar			ara
+zo			ita
+zoals			sicut
+kennen			cognoscere, cognovi
+omvang			magnitudo
+doden			necare, caedere
+wind			aura
+omdat			quia
+uitoefenen		exercére
+opgewassen tot		par + dat
+aangezien		quoniam
+pakken			capere
+list			dolus
+zingen			canere
+misdaad			sceleris
+sparen			parcere
+bovendien		praeterea
+lange tijd		diu
+zijn, haar		suus
+ooit, soms		aliquando
+of			vel
+bevelen			iubére, iussi
+door, by, par		ab + abl
+bekend			notus
+vrezen			metuere
+gehaat bij		invisus + dat
+later			postea
+daar			ibi
+op die manier		sic
+tegelijk		simul
+redden			servare
+nauwelijks		vix
+onlangs			nuper
+gewoonlijk doen		solére
+te weten komen		reperire
+betrappen		deprehendere
+de een, ander		alius, alius
+woest			saevus
+wegnemen		auferre
+licht			levis
+ook, zelfs		etiam
+behalve			preater + acc
+of			aut
+snel (bijw)		cito
+zijn, haar		suus
+sterven			interire
+oever			ripa
+echtgenote		uxor
+rij, gelid		ordo
+ontstaan		oriri
+ver			longe
+daar			ibi
+toch			tamen
+vrezen			metuere
+streven naar		petere
+behalve			preater + acc
+gezicht			vultus
+nog niet		nondum
+want, namelijk		nam
+daarom			ideo
+tenzij			nisi
+tot nu doe		adhuc
+snel (bijw)		cito
+net zo			aequo
+pakken			capere
+afzetten		deponere, deposui
+buigen			flectere
+koninklijk		regius
+onlangs			nuper
+toen			cum + ind
+tensltotte		denique
+bovendien		praeterea
+meteen			statim
+brucht			arx
+waarom			cur
+wegens			ob, propter + acc
+metgezel		comes
+te weten komen		reperire
+oordelen		iudicare
+maken tot		facere + 2acc
+licht			levis
+plaatsen		statuere
+of			aut
+redden			servare
+begerig naar ..		cupidus + gen
+immers			enim
+zodat niet		ne + conj
+de een, ander		alius, alius
+bevelen			iubére, iussi
+later			postea
+wind			aura
+zoals, zodra		ut
+opgewassen tot		par + dat
+opa			avus
+steen			lapis
+baren			gignere
+wegnemen		auferre
+verschaffen		praebére
+tegelijk		simul
+zeg			dic
+wensen			optare
+omvang			magnitudo
+geweldig		ingens
+wonderbaarlijk		mirus
+aangezien		quoniam
+trerugkeren		revertor
+aarde			tellus, -uris
+sparen			parcere
+huilen			flere
+onvrijwillig		invitus
+gehaat bij		invisus + dat
+van goud		aureus
+ooit, soms		aliquando
+zingen			canere
+noch			nec
+erg (bijw)		valde
+strijden		certare
+list			dolus
+hoe			quemadmodum
+lange tijd		diu
+verzinnen		fingere
+waarzegger		vates
+gewoonlijk doen		solére
+gaan zitten		considere
+toen			tunc, tum
+riviertje		amnis (m)
+kust			litus
+ook, zelfs		etiam
+uitoefenen		exercére
+omdat			quia
+nauwelijks		vix
+brengen			perducere
+zozeer			tam
+gehoorzamen		parére + dat
+opnieuw			iterum
+en			atque
+kennen			cognoscere, cognovi
+toevallig		forte
+bij			apud + acc
+betrappen		deprehendere
+vervolgens		deinde
+klein			parvus
+of			vel
+maar			at, sed
+rechter			iudex
+vriendschap		amicitia
+wat, waarom		quid
+plotseling		repente
+kleinzoon		nepos
+altaar			ara
+hij zegt		ait
+vasthouden		tenére
+dus			igitur
+blij zijn		gaudeo
+opvoeden		alere
+doden			necare, caedere
+dwaas			stultis
+door, by, par		ab + abl
+zoals			sicut
+bekend			notus
+woest			saevus
+zo			ita
+omdat			quod
+al			iam
+geschenk, taak		munus, -eris
+opdat			ut + conj
+echter, idd		vero
+aan hem			ei
+kledingstuk		vestis
+misdaad			sceleris
+verdrijven van		pellere + abl
+op die manier		sic
+verblijven		morari
+vriendelijk		mitis
+echter			autem
+bedriegen		fallere
+daar 			ilic
+toestaan		sinére
+geschenk, taak		munus, -eris
+erg (bijw)		valde
+verdrijven van		pellere + abl
+omdat			quia
+zozeer			tam
+plotseling		repente
+verschaffen		praebére
+huilen			flere
+daarom			ideo
+wegens			ob, propter + acc
+gezicht			vultus
+oever			ripa
+tegelijk		simul
+baren			gignere
+buigen			flectere
+brengen			perducere
+daar 			ilic
+net zo			aequo
+onlangs			nuper
+daar			ibi
+rij, gelid		ordo
+bekend			notus
+opgewassen tot		par + dat
+omvang			magnitudo
+aan hem			ei
+strijden		certare
+oordelen		iudicare
+betrappen		deprehendere
+begerig naar ..		cupidus + gen
+toen			tunc, tum
+streven naar		petere
+te weten komen		reperire
+de een, ander		alius, alius
+omdat			quod
+zoals, zodra		ut
+onvrijwillig		invitus
+metgezel		comes
+bedriegen		fallere
+waarom			cur
+nauwelijks		vix
+kleinzoon		nepos
+geweldig		ingens
+meteen			statim
+toch			tamen
+verzinnen		fingere
+ook, zelfs		etiam
+bij			apud + acc
+kledingstuk		vestis
+zijn, haar		suus
+van goud		aureus
+toevallig		forte
+koninklijk		regius
+nog niet		nondum
+aangezien		quoniam
+want, namelijk		nam
+wensen			optare
+maken tot		facere + 2acc
+op die manier		sic
+opa			avus
+ver			longe
+vriendschap		amicitia
+tenzij			nisi
+vervolgens		deinde
+plaatsen		statuere
+behalve			preater + acc
+ooit, soms		aliquando
+licht			levis
+list			dolus
+zodat niet		ne + conj
+vrezen			metuere
+bovendien		praeterea
+echter, idd		vero
+kust			litus
+vriendelijk		mitis
+wat, waarom		quid
+uitoefenen		exercére
+echter			autem
+of			vel
+altaar			ara
+gewoonlijk doen		solére
+waarzegger		vates
+dus			igitur
+maar			at, sed
+hij zegt		ait
+echtgenote		uxor
+lange tijd		diu
+later			postea
+opdat			ut + conj
+verblijven		morari
+trerugkeren		revertor
+redden			servare
+wind			aura
+opnieuw			iterum
+noch			nec
+blij zijn		gaudeo
+woest			saevus
+en			atque
+gehoorzamen		parére + dat
+immers			enim
+wegnemen		auferre
+wonderbaarlijk		mirus
+toen			cum + ind
+brucht			arx
+kennen			cognoscere, cognovi
+bevelen			iubére, iussi
+tensltotte		denique
+toestaan		sinére
+hoe			quemadmodum
+dwaas			stultis
+pakken			capere
+door, by, par		ab + abl
+sterven			interire
+ontstaan		oriri
+riviertje		amnis (m)
+snel (bijw)		cito
+zingen			canere
+tot nu doe		adhuc
+zoals			sicut
+of			aut
+vasthouden		tenére
+aarde			tellus, -uris
+sparen			parcere
+klein			parvus
+doden			necare, caedere
+gehaat bij		invisus + dat
+zeg			dic
+zo			ita
+afzetten		deponere, deposui
+gaan zitten		considere
+misdaad			sceleris
+al			iam
+opvoeden		alere
+rechter			iudex
+steen			lapis
+maken tot		facere + 2acc
+vrezen			metuere
+aan hem			ei
+pakken			capere
+redden			servare
+daarom			ideo
+riviertje		amnis (m)
+rij, gelid		ordo
+baren			gignere
+plotseling		repente
+blij zijn		gaudeo
+wensen			optare
+toestaan		sinére
+maar			at, sed
+echter			autem
+omdat			quod
+bovendien		praeterea
+rechter			iudex
+onlangs			nuper
+verdrijven van		pellere + abl
+daar 			ilic
+snel (bijw)		cito
+later			postea
+toch			tamen
+hoe			quemadmodum
+vasthouden		tenére
+ontstaan		oriri
+gezicht			vultus
+kledingstuk		vestis
+zeg			dic
+verblijven		morari
+nauwelijks		vix
+vriendelijk		mitis
+bekend			notus
+hij zegt		ait
+dwaas			stultis
+begerig naar ..		cupidus + gen
+gewoonlijk doen		solére
+gaan zitten		considere
+wegens			ob, propter + acc
+gehaat bij		invisus + dat
+toen			tunc, tum
+zoals, zodra		ut
+doden			necare, caedere
+plaatsen		statuere
+opgewassen tot		par + dat
+ook, zelfs		etiam
+bij			apud + acc
+of			vel
+licht			levis
+vervolgens		deinde
+zodat niet		ne + conj
+omdat			quia
+want, namelijk		nam
+omvang			magnitudo
+geweldig		ingens
+streven naar		petere
+vriendschap		amicitia
+immers			enim
+tenzij			nisi
+zingen			canere
+toevallig		forte
+tot nu doe		adhuc
+nog niet		nondum
+kennen			cognoscere, cognovi
+daar			ibi
+waarzegger		vates
+kust			litus
+metgezel		comes
+brengen			perducere
+opdat			ut + conj
+echtgenote		uxor
+bedriegen		fallere
+waarom			cur
+tegelijk		simul
+erg (bijw)		valde
+wind			aura
+klein			parvus
+koninklijk		regius
+wonderbaarlijk		mirus
+geschenk, taak		munus, -eris
+noch			nec
+de een, ander		alius, alius
+aarde			tellus, -uris
+huilen			flere
+wat, waarom		quid
+betrappen		deprehendere
+echter, idd		vero
+oever			ripa
+kleinzoon		nepos
+gehoorzamen		parére + dat
+zo			ita
+woest			saevus
+of			aut
+opvoeden		alere
+op die manier		sic
+net zo			aequo
+te weten komen		reperire
+bevelen			iubére, iussi
+toen			cum + ind
+buigen			flectere
+onvrijwillig		invitus
+zijn, haar		suus
+list			dolus
+trerugkeren		revertor
+behalve			preater + acc
+sparen			parcere
+aangezien		quoniam
+sterven			interire
+en			atque
+van goud		aureus
+ooit, soms		aliquando
+verschaffen		praebére
+meteen			statim
+afzetten		deponere, deposui
+al			iam
+opa			avus
+wegnemen		auferre
+strijden		certare
+uitoefenen		exercére
+ver			longe
+misdaad			sceleris
+steen			lapis
+zozeer			tam
+opnieuw			iterum
+verzinnen		fingere
+door, by, par		ab + abl
+zoals			sicut
+altaar			ara
+brucht			arx
+dus			igitur
+oordelen		iudicare
+tensltotte		denique
+lange tijd		diu

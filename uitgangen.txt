@@ -1,0 +1,39 @@
+de grote man (nominatief)		der grosse Mann
+de grote vrouw (nominatief)		die grosse Frau
+het grote kind (nominatief)		das grosse Kind
+de grote gezinnen (nominatief)		die grossen Familien
+
+de grote man (accusatief)		den grossen Mann
+de grote vrouw (accusatief)		die grosse Frau
+het grote kind (accusatief)		das grosse Kind
+de grote gezinnen (accusatief)		die grossen Familien
+
+de grote man (datief)			dem grossen Mann
+de grote vrouw (datief)			der grossen Frau
+het grote kind (datief)			dem grossen Kind
+de grote gezinnen (datief)		den grossen Familien
+
+de grote man (genitief)			des grossen Mannes
+de grote vrouw (genitief)		der grossen Frau
+het grote kind (genitief)		des grossen Kindes
+de grote gezinnen (genitief)		der grossen Familien
+
+een goede man (nominatief)		ein guter Mann
+een goede vrouw (nominatief)		eine gute Frau
+een goed kind (nominatief)		ein gutes Kind
+goede gezinenn (nominatief)		gute familien
+
+een goede man (accusatief)		einen guten Mann
+een goede vrouw (accusatief)		eine gute Frau
+een goede kind (accusatief)		ein gutes Kind
+goede gezinnen (accusatief)		gute Familien
+
+een goede man (datief)			einem guten Mann
+een goede vrouw (datief)		einer guten Frau
+een goede kind (datief)			einem guten Kind
+goede gezinnen (datief)			guten Familien
+
+een goede man (genitief)		eines guten Mannes
+een goede vrouw (genitief)		einer guten Frau
+een goede kind (genitief)		eines guten Kindes
+goede gezinnen (genitief)		guter Familien
