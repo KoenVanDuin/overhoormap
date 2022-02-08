@@ -1,4 +1,5 @@
-"""Ici je joue un peu avec gtts, l'histoire d'apprendre ce qui est possible."""
+"""Hier speel ik een beetje met gtts, gewoon om uit te vinden wat er mogelijk is."""
+
 import os
 import re
 import random
